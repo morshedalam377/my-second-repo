@@ -1,3 +1,23 @@
-h3{
+h1 {
+    color: rgb(23, 156, 81);
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h3 {
     color: blue;
+}
+
+.place p {
+    width: 60%;
+    text-decoration-line: initial;
+}
+
+img {
+    border-radius: 10px;
+    width: 60%;
+    padding: 5px;
+    border: 1px solid springgreen;
 }
